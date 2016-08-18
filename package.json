@@ -1,0 +1,28 @@
+{
+  "name": "sajankumar",
+  "version": "1.0.0",
+  "description": "This demo task is developed by myself. | sajankumarv@live.com | Ph: +91 9176785501 | Skype: Sajee_sc",
+  "main": "server.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://svijayan88@bitbucket.org/svijayan88/sajankumarv.git"
+  },
+  "author": "sajankumarv",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "react-router": "^2.6.1",
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "concurrently": "^2.2.0"
+  }
+}

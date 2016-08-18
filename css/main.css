@@ -1,0 +1,13 @@
+nav{
+    text-align: center;
+}
+
+nav ul li{
+    padding: 50px;
+    float: left;
+    list-style: none;
+}
+
+.clear{
+    clear: both;
+}
